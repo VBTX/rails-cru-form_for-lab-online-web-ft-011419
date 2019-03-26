@@ -5,7 +5,7 @@ class SongsController < ApplicationController
   def new
     @song = Song.new
   end
-  def navigate
+  def edit
   end
   def update
     @song = Song.find(params[:id])
