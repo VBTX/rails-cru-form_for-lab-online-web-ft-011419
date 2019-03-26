@@ -3,7 +3,7 @@ class GenresController < ApplicationController
   end
   def new
   end
-  def show
+  def navigate
   end
   def update
   end
