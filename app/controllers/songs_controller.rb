@@ -7,4 +7,6 @@ class SongsController < ApplicationController
   end
   def update
   end
+  def create
+  end
 end
